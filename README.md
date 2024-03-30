@@ -1,7 +1,7 @@
 ## Quickstart
 ### Step 0: Cloning this repository
 ```
-git clone https://github.com/tech-srl/code2vec
+git clone https://github.com/wendigo295/Code2Vec.git
 cd code2vec
 ```
 
